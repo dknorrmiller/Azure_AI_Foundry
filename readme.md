@@ -1,0 +1,1 @@
+Projeto de criação de um chat personalizado dentro do Azure Foundry AI.
